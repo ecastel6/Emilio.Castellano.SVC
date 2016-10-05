@@ -7,7 +7,7 @@ import org.junit.Test;
 
 public class C31Test {
 
-private C31 c31;
+    private C31 c31;
     
     @Before
     public void before()  {
