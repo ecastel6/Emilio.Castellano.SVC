@@ -3,7 +3,7 @@ package svc;
 public class C11 {
     
     public String m1() {
-        return "m1";
+        return "error en m1";
     }
     
     public String m2() {
