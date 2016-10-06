@@ -16,7 +16,7 @@ public class C11Test {
 
     @Test
     public void testM1() {
-        assertEquals ("m1", this.c11.m1());
+        assertEquals ("error en m1", this.c11.m1());
     }
    
     @Test
